@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1725520283 source:e:\git hub\warehouse\c\链表\1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1725520283 source:e:\git hub\warehouse\c\链表\顺序存储结构链表\main.c
+	<stdio.h>
+	<stdlib.h>
+
